@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Muurein
 - 🌱 I’m currently learning HTML, CSS and JavaScript for (sort of) the first time
+- :v: The first project I'd like to create on my own is a small site where I can convert American baking measurments to Swedish ones, maybe even 
+      a site that can convert whole recipes and find Swedish alternatives to American ingredients
 - ⚡ Fun fact: right before December rolls around, I'll finally become a first-time cat owner to two kittens!
 
 <!---
